@@ -1,4 +1,4 @@
-motor coupling: blank from evwest -> flex shaft coupler -> 4runner diff 
+motor coupling: blank from evwest -> flex shaft coupler -> 4:1 ratio diff 
 
 motor max RPM: 7500 best efficiency @3500, 
 5.7:1 with 808 R/mile = 5000 rpm at 65mph
@@ -10,3 +10,5 @@ motor is 424mm long plus adapter plus flex then diff?
 anything needed to connect flex shaft to diff input shaft?
 
 4:1 diff will be satisfactory if motor can produce 400 lb-ft of torque at 3500rpm for 10s
+upgraded diff not necessary? still need new one
+motor won't fit behind axle, get rear diff
