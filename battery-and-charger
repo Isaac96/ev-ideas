@@ -5,3 +5,6 @@ motor should be limited to 200A with ramp up from 150A
 use original charger and charge port, get sv or sl for level 3 ChaDeMo port, all have level 2
 2016 sv and sl? have 30kwh batt?
 want 6.6kw charger
+
+reverse-engineer Leaf safety interlocks, spoofer using Arduino?
+charge interlocks?
