@@ -1,0 +1,6 @@
+motor/controller/gevcu/andromeda: 2500
+diff: 1000
+batteries: 5000
+custom work for motor adapter, motor mount, diff mount: 500
+total 9000
+
