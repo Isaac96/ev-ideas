@@ -8,3 +8,5 @@ want 6.6kw charger
 
 reverse-engineer Leaf safety interlocks, spoofer using Arduino?
 charge interlocks?
+battery appears to have no interlocks?
+microcontroller for full battery control using all cells/balancer chips
