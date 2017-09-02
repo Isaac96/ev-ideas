@@ -1,15 +1,10 @@
-motor coupling: blank from evwest -> flex shaft coupler -> 4.88:1 ratio diff 
+motor coupling: blank from evwest -> flex shaft coupler -> heat-fit coupler -> original tranny
 
 motor max RPM: 7500 best efficiency @3500, 
-4.88:1 with 808 R/mile = 4200 rpm at 65mph
+5.2:1 with 808 R/mile = 4551 rpm at 65mph
 plenty of torque
-motor behind rear axle using 4.88g:1 front diff
+motor in standard spot connecting to tranny
 motor right side up with controller on side
-motor shaft to flex coupler to diff
-motor is 424mm long plus adapter plus flex then diff?
-anything needed to connect flex shaft to diff input shaft?
-
-4:1 diff will be satisfactory if motor can produce 400 lb-ft of torque at 3500rpm for 10s
-upgraded diff not necessary? still need new one
-motor won't fit behind axle, get rear diff
-motor goes in trunk, diagonally 
+motor shaft to flex coupler to tranny
+motor is 424mm long plus adapter plus flex 
+875 wheel rpm @65mph 
