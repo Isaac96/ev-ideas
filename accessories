@@ -4,7 +4,7 @@ AC: compressor from hybrid? Leaf?
 
 salvage accessories from leaf?
 
-LED headlight: stock?
+LED headlight
 
 shifter lever for PRND, P is motor off R is revers N is regen disabled D is go
 use the manual shifter for changing regen amount?
@@ -24,3 +24,11 @@ warning light for over current, rpm, etc.
 
 place for ps pump, pb pump
 expensive
+
+AC compressor has electronic clutch-need to find the plug and test it?
+use VOM and have somebody switch it on/off
+
+find 12v output for pumps that is switched when the car is turned on
+
+put dc/dc converter where battery goes?
+or skip the body ground
