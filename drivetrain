@@ -1,4 +1,4 @@
-motor coupling: blank from evwest -> flex shaft coupler -> heat-fit coupler -> original tranny
+motor coupling: motor -> 200SX clutch plate -> Porsche plate -> tranny
 
 motor max RPM: 7500 best efficiency @3500, 
 5.2:1 with 808 R/mile = 4551 rpm at 65mph
@@ -13,10 +13,3 @@ motor is 424mm long plus adapter plus flex
 Keep a shifter somewhere? synchromesh will let it all slide together-eventually make a simple automatic tranny
 do tests in each gear for acceleration, top speed, Ah used, motor temp etc.
 
-DME has output somewhere with throttle valve; feedback as well-servo-style
-
-put a servo in for the feedback? w/spring, of course
-
-GEVCU could run off of the feedback pot?
-
-connect GEVCU @ the DME for extra safety-redundancy basically
