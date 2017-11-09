@@ -1,17 +1,11 @@
-power steering: electric steering pump: MR2?
+power steering: MR2 pump
 power brakes: electric brake booster
-AC: compressor from hybrid? Leaf?
+AC: custom 3-phase AC motor for compressor, available as all-in-1 unit w/inverter
 
-salvage accessories from leaf?
-
-LED headlight
+HID headlights
 
 shifter lever for PRND, P is motor off R is revers N is regen disabled D is go
-use the manual shifter for changing regen amount?
 make custom slide for lever, locking system instead of tranny
-
-leaf brakes, steering may be drive-by-wire?
-get leaf pump, steering assist?
 
 andromeda display in "junk spot"
 GEVCU between andromeda and shift lever?
@@ -22,15 +16,10 @@ engine thermometer same
 gas gauge for battery
 warning light for over current, rpm, etc.
 
-place for ps pump, pb pump
-expensive
-
 AC compressor has electronic clutch-need to find the plug and test it?
 use VOM and have somebody switch it on/off
-use original compressor-use motor with pulley? 24v scooter motor possibly?
+Use custom compressor/motor/inverter combo
 
-
-find 12v output for pumps that is switched when the car is turned on
-
-put dc/dc converter where battery goes?
-or skip the body ground
+DC-DC will be grounded to frame for return on accessories
+AC will not turn on in ACC, same with heater
+Pumps will be powered off DC-DC with separate LV relay-controlled by GEVCU
