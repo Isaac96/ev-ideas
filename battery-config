@@ -1,0 +1,9 @@
+Battery split between front and back
+Main contactors, precharge and power, in original 12V battery box with DC-DC converter
+Contactors between front and back packs
+Additional contactor for DC-DC converter
+Precharge relay is controlled by ACC switch in ignition, but has a NC inertia switch between in case of collision
+ACC switch also powers up DC-DC, and therefore GEVCU
+GEVCU controls power contactor, with usual precharge delay; additional enable switch as well as RUN switch in ignition
+Green enable switch in dash with light ring, light ring turns on when precharge is finished and ignition is in RUN
+GEVCU ignores ACC mode, only begins precharge count when in RUN
