@@ -6,9 +6,8 @@ use original charger and charge port, get sv or sl for level 3 ChaDeMo port, all
 2016 sv and sl? have 30kwh batt?
 want 6.6kw charger
 
-reverse-engineer Leaf safety interlocks, spoofer using Arduino?
-charge interlocks?
-battery appears to have no interlocks?
-microcontroller for full battery control using all cells/balancer chips
+Battery control module only balances, and the charger is "dumb"?
 
 75-85 AH, 340-360V is ideal
+
+364.8 nominal voltage
