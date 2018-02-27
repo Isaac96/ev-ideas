@@ -1,8 +1,9 @@
-Battery split between front and back
-DC-DC converter in original 12V battery box 
-Precharge relay is controlled by ACC switch in ignition, but has a NC inertia switch between in case of collision
-ACC switch also powers up DC-DC, and therefore GEVCU
-GEVCU controls power contactor, with usual precharge delay; additional enable switch as well as RUN switch in ignition
+Batteries around motor in 4x12 stacks
+Stock BMS from Leaf
+Elcon TC 6.6KW charger w/TCCH 
+All accessories turn on as normal, DC-DC just charges the 12V battery
+DC-DC is after main contactors
+GEVCU is configured as normal
 Green enable switch in dash with light ring, light ring turns on when precharge is finished and ignition is in RUN
 
 

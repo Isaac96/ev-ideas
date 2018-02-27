@@ -1,7 +1,6 @@
-power steering: MR2 pump
-power brakes: electric brake booster
-AC: custom 3-phase AC motor for compressor, available as all-in-1 unit w/inverter
-
+power steering: Porsche racing pump
+power brakes: Hella pump from GM with 20psi vacuum switch from EVWest
+AC: Benling 27cc scroll compressor
 HID headlights
 
 shifter lever for PRND, P is motor off R is revers N is regen disabled D is go
@@ -22,4 +21,5 @@ Use custom compressor/motor/inverter combo
 
 DC-DC will be grounded to frame for return on accessories
 AC will not turn on in ACC, same with heater
-Pumps will be powered off DC-DC with separate LV relay-controlled by GEVCU
+Pumps will be turned on by the enable switch on the GEVCU but only when GEVCU is powered up; 
+the switch will get its 12V power from the GEVCU to prevent pumps on without DC-DC on.

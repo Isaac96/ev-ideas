@@ -1,13 +1,7 @@
 leaf 24kwh pack 360v 66Ah 87.5% discharge: 21kwh available
 max continous discharge: 3C 180A max momentary: 5C 300A
 motor should be limited to 200A with ramp up from 150A
-
-use original charger and charge port, get sv or sl for level 3 ChaDeMo port, all have level 2
 2016 sv and sl? have 30kwh batt?
-want 6.6kw charger
-
-Battery control module only balances, and the charger is "dumb"?
-
-75-85 AH, 340-360V is ideal
-
+Elcon TC 6.6KW charger
+BMS is a dumb balancer
 364.8 nominal voltage
